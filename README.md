@@ -1,1 +1,1 @@
-# This are the Practicals and Projects of Different Subject.
+Practicals and Projects of MSC-CS-Semester I
