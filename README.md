@@ -1,1 +1,1 @@
-# This are the Practical and Project of Different Subject.
+# This are the Practicals and Projects of Different Subject.
