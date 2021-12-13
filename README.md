@@ -1,1 +1,1 @@
-Practicals and Projects of MSC-CS-Semester I
+Practicals and Projects of MSC-CS
